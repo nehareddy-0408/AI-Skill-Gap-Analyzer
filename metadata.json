@@ -1,0 +1,8 @@
+{
+  "name": "Syntropic Precision",
+  "description": "High-performance talent intelligence and AI-driven skill evaluation platform with multi-turn copilot, search grounding, and multimodal visual analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
